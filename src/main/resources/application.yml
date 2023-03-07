@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: C:\Users\furtakh\IdeaProjects\test\app-1.properties
+server:
+  port: 8888
