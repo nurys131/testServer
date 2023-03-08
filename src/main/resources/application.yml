@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: C:\Users\furtakh\IdeaProjects\test\app-1.properties
+          uri: https://github.com/nurys131/testServer.git
 server:
   port: 8888
